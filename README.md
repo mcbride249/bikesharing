@@ -4,11 +4,9 @@
 
 ## **Project Overview**
 
-The purpose of this project was to illustrate the Citibike bike share data for New York City,
+The purpose of this project was to illustrate the Citibike bike share data for New York City in a visually appealing manner, that could be easily understood by potential investors using Tableau. The pupose of this presentation was to encourage investment in a similar bike share program within Des Moines, Iowa. The project involved presenting  data for the total number of trips, a customer breakdown based on gender and subscription to the service, determining peak riding hours, trip duration, the start and end location of riders, in addition to bike utilization data. The data was compiled in Tableau worksheet, organized in Tableau dashbaords, and finally presented using Tableau stories.   
 
-with the intent purpose pf presemnting this data to seed funders, in the hope of establishing a similar bike share program within Des Moines, Iowa. 
 
-show the differences between the magnitudes of earthquakes all over the world for the last seven days. To complete this task, we used a URL for GeoJSON earthquake data from the USGS website and retrieved the geographical coordinates and magnitudes of earthquakes for the last seven days and used JavaScript and the D3.js library to plot this data visually. The Leaflet library was used to plot the data on a Mapbox map through an API request that allowed for the visual creation and interaction of the earthquake data.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,17 +32,17 @@ The purpose of this assignment was to create an earthquake map with edifferent o
 
 ## **Results**
 
-**Deliverable 1: Add Tectonic Plate Data**
+**Deliverable 1: Change Trip Duration to a Datetime Format**
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Deliverable 2: Add Major Earthquake Data**
+**Deliverable 2: Create Visualizations for the Trip Analysis**
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Deliverable 3: Add Major Earthquake Data**
+**Deliverable 3: Create a Story and Report for the Final Presentation**
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
