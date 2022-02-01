@@ -12,11 +12,11 @@ The purpose of this project was to illustrate the Citibike bike share data for N
 
 ## **Resources**
 
--Data Source: 
+-Data Source: 201908-citibike-tripdata; 201908-citibike-tripdata-updated.  
 
 -Software: Tableau; Python 3.7.10, Visual Studio Code, 1.38.1. 
 
--Resources: https://docs.mapbox.com/; https://earthquake.usgs.gov/earthquakes; https://github.com/fraxen/tectonicplates
+-Resources: tableau.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ The purpose of this assignment was to create an earthquake map with edifferent o
 
 **Deliverable 1: Change Trip Duration to a Datetime Format**
 
-
+![Deliverable 2 - Image 1](https://user-images.githubusercontent.com/92111396/151896268-9f284258-767b-4bbf-b1c2-397258514e4f.png)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -70,11 +70,15 @@ The purpose of this assignment was to create an earthquake map with edifferent o
 
 **Deliverable 3: Create a Story and Report for the Final Presentation**
 
+The story to the final presentation can be found at the following link:
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Purpose**
 
 
-## **Summary**
+**Results**
+
+
+**Summary**
 
 
 
