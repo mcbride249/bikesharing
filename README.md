@@ -34,7 +34,7 @@ The purpose of this assignment was to create an earthquake map with edifferent o
 
 **Deliverable 1: Change Trip Duration to a Datetime Format**
 
-![Deliverable 2 - Image 1](https://user-images.githubusercontent.com/92111396/151896268-9f284258-767b-4bbf-b1c2-397258514e4f.png)
+![Deliverable 1 - Image 1](https://user-images.githubusercontent.com/92111396/151897026-22d1057f-3a97-43e2-9714-3a23e33a7fdd.png)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
