@@ -81,7 +81,7 @@ The purpose of this challenge was to use Pandas to "tripduration" column from an
 
 **Summary**
 
-
+In summary, we can see that NYC Citibike had a total number of 2,344,224 rides. Of these rides, 1,900,359 of them were taken by subscription members, while 443,865 rides were taken by ad hoc customers. Males constituted 65% of known customers with women accounting for 25% of known customers. Peak riding times were bimodal, running from 6 to 10 a.m. and peaking again from 4 to 7 p.m., which correspond to normal working hours, which were the same for all genders. The analysis also analysed top pick-up and drop-off locations regardless of time. In order to further anlayze the data, I would suggest adding visulaizations that displayed the top drop off and pick up locations based on peak times to determine what areas facilitated the increase in ridership use; this information could then be used to place pick-up and drop-off locations both within New York and Des Moines. 
 
 
 
