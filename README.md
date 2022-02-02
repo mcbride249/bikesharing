@@ -21,6 +21,8 @@ The purpose of this project was to illustrate the Citi Bike, bike share data for
 
 ## **Module 14 - Challenge** 
 
+[Link to Tableau Story] (https://public.tableau.com/app/profile/ethan.mcbride/viz/Bikeshare_Challenge_16434842293310/NYCCitiBikeAnlaysis?publish=yes)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Purpose**
