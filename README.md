@@ -21,7 +21,10 @@ The purpose of this project was to illustrate the Citi Bike, bike share data for
 
 ## **Module 14 - Challenge** 
 
+A link to the completed Citi Bike Analysis Story can be found below:
+
 [Link to Tableau Story] (https://public.tableau.com/app/profile/ethan.mcbride/viz/Bikeshare_Challenge_16434842293310/NYCCitiBikeAnlaysis?publish=yes)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,6 +35,7 @@ The purpose of this challenge was to use Pandas to "tripduration" column from an
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Results**
+
 
 **Deliverable 1: Change Trip Duration to a Datetime Format**
 
@@ -79,7 +83,12 @@ The purpose of this challenge was to use Pandas to "tripduration" column from an
 
 **Results**
 
-The below images show the NYC Citi Bike Analysis Story
+A link to the completed Citi Bike Analysis Story can be found below:
+
+[Link to Tableau Story] (https://public.tableau.com/app/profile/ethan.mcbride/viz/Bikeshare_Challenge_16434842293310/NYCCitiBikeAnlaysis?publish=yes)
+
+
+The below images show the NYC Citi Bike Analysis Story:
 
 ![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/152204534-3d65ea5f-fba8-4c6d-89a0-5a451993cb56.png)
 
