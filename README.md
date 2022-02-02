@@ -74,11 +74,13 @@ The story to the final presentation can be found at the following link:
 
 **Purpose**
 
+The purpose of this challenge was to use Pandas to "tripduration" column from an integer to a datetime datatype. Once the datatype had been converted, we used it to create a set of visulaizations that displayed the length of time that bikes are checked out for all riders and genders, displayed the number of bike trips for all riders and genders for each hour of each day of the week, and displayed the number of bike trips for each type of user and gender for each day of the week. Finally, a story was created out of the visualizations that could be used in the final presentation in our pitch to investors. 
 
 **Results**
 
 
 **Summary**
+
 
 
 
