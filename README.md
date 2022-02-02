@@ -78,6 +78,32 @@ The purpose of this challenge was to use Pandas to "tripduration" column from an
 
 **Results**
 
+The below images show the NYC Citi Bike Analysis Story
+
+![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/152204534-3d65ea5f-fba8-4c6d-89a0-5a451993cb56.png)
+
+
+![Deliverable 3 - Image 2](https://user-images.githubusercontent.com/92111396/152204555-4a4ad534-c231-4bf9-8624-befe3ef3c2d2.png)
+
+
+![Deliverable 3 - Image 3](https://user-images.githubusercontent.com/92111396/152204576-72ba9b6c-93f3-48c8-99f2-1099ed2377f9.png)
+
+
+![Deliverable 3 - Image 4](https://user-images.githubusercontent.com/92111396/152204586-a32fdd17-103d-450c-aee6-5e55eedfd2f6.png)
+
+
+![Deliverable 3 - Image 5](https://user-images.githubusercontent.com/92111396/152204597-9240a3d1-e3c3-4bd4-921e-7983819320a9.png)
+
+
+![Deliverable 3 - Image 6](https://user-images.githubusercontent.com/92111396/152204614-a9f0639d-3dd1-45c3-b8d4-560cfc2169db.png)
+
+
+![Deliverable 3 - Image 7](https://user-images.githubusercontent.com/92111396/152204623-13aa6e8d-245c-41c4-8bb9-85408f0fa4ce.png)
+
+
+![Deliverable 3 - Image 8](https://user-images.githubusercontent.com/92111396/152204650-0eb510a7-675e-451b-8f5a-997b194209e7.png)
+
+
 
 **Summary**
 
