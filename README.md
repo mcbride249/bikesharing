@@ -4,8 +4,7 @@
 
 ## **Project Overview**
 
-The purpose of this project was to illustrate the Citibike bike share data for New York City in a visually appealing manner, that could be easily understood by potential investors using Tableau. The pupose of this presentation was to encourage investment in a similar bike share program within Des Moines, Iowa. The project involved presenting  data for the total number of trips, a customer breakdown based on gender and subscription to the service, determining peak riding hours, trip duration, the start and end location of riders, in addition to bike utilization data. The data was compiled in Tableau worksheet, organized in Tableau dashbaords, and finally presented using Tableau stories.   
-
+The purpose of this project was to illustrate the Citi Bike, bike share data for New York City in a visually appealing manner, that could be easily understood by potential investors using Tableau. The purpose of this presentation was to encourage investment in a similar bike share program within Des Moines, Iowa. The project involved presenting data for the total number of trips, a customer breakdown based on gender and subscription to the service, determining peak riding hours, trip duration, the start and end location of riders, in addition to bike utilization data. The data was compiled in Tableau worksheet, organized in Tableau dashboards, and finally presented using Tableau stories.   
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -26,7 +25,7 @@ The purpose of this project was to illustrate the Citibike bike share data for N
 
 ## **Purpose**
 
-The purpose of this assignment was to create an earthquake map with edifferent overlays which displayed the the earthquake data in relation to the tectonic plates' location on the earth, particularly those earthquakes with a magnitude greater than 4.5.
+The purpose of this challenge was to use Pandas to "tripduration" column from an integer to a datetime datatype. Once the datatype had been converted, we used it to create a set of visualizations that displayed the length of time that bikes are checked out for all riders and genders, displayed the number of bike trips for all riders and genders for each hour of each day of the week, and displayed the number of bike trips for each type of user and gender for each day of the week. Finally, a story was created out of the visualizations that could be used in the final presentation in our pitch to investors. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -74,7 +73,7 @@ The story to the final presentation can be found at the following link:
 
 **Purpose**
 
-The purpose of this challenge was to use Pandas to "tripduration" column from an integer to a datetime datatype. Once the datatype had been converted, we used it to create a set of visulaizations that displayed the length of time that bikes are checked out for all riders and genders, displayed the number of bike trips for all riders and genders for each hour of each day of the week, and displayed the number of bike trips for each type of user and gender for each day of the week. Finally, a story was created out of the visualizations that could be used in the final presentation in our pitch to investors. 
+The purpose of this challenge was to use Pandas to "tripduration" column from an integer to a datetime datatype. Once the datatype had been converted, we used it to create a set of visualizations that displayed the length of time that bikes are checked out for all riders and genders, displayed the number of bike trips for all riders and genders for each hour of each day of the week, and displayed the number of bike trips for each type of user and gender for each day of the week. Finally, a story was created out of the visualizations that could be used in the final presentation in our pitch to investors. 
 
 **Results**
 
@@ -121,5 +120,5 @@ The final displays the top Citi Bike destinations in New York City.
 
 **Summary**
 
-In summary, we can see that NYC Citibike had a total number of 2,344,224 rides. Of these rides, 1,900,359 of them were taken by subscription members, while 443,865 rides were taken by ad hoc customers. Males constituted 65% of known customers with women accounting for 25% of known customers. Peak riding times were bimodal, running from 6 to 10 a.m. and peaking again from 4 to 7 p.m., which correspond to normal working hours, which were the same for all genders. The analysis also analysed top pick-up and drop-off locations regardless of time. In order to further anlayze the data, I would suggest adding visulaizations that displayed the top drop off and pick up locations based on peak times to determine what areas facilitated the increase in ridership use; this information could then be used to place pick-up and drop-off locations both within New York and Des Moines. The second visulaization that I would recommend creating is the length of trip duration by gender; this could be then be expanded to determine why women riders accounted for a significantly less number of rides than men, with a solution put in place to further encourage women riders. 
+In summary, we can see that NYC Citi Bike had a total number of 2,344,224 rides. Of these rides, 1,900,359 of them were taken by subscription members, while 443,865 rides were taken by ad hoc customers. Males constituted 65% of known customers with women accounting for 25% of known customers. Peak riding times were bimodal, running from 6 to 10 a.m. and peaking again from 4 to 7 p.m., which correspond to normal working hours, which were the same for all genders. The analysis also analysed top pick-up and drop-off locations regardless of time. In order to further analyze the data, I would suggest adding visualizations that displayed the top drop off and pick up locations based on peak times to determine what areas facilitated the increase in ridership use; this information could then be used to place pick-up and drop-off locations both within New York and Des Moines. The second visualization that I would recommend creating is the length of trip duration by gender; this could be then be expanded to determine why women riders accounted for a significantly less number of rides than men, with a solution put in place to further encourage women riders. 
 
